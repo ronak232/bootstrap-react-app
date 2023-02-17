@@ -1,24 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+// import { useState } from "react";
+import "./App.css";
+import Gallery from "./Components/Gallery";
+import WizNavbar from "./Components/WizNavbar";
+import Services from "./Components/Services";
+import SmartItems from "./Components/SmartItem";
+import Technologies from "./Components/Technologies";
+import ServicePackages from "./Components/ServicePackages";
+import LogoSlider from "./Components/LogoSlider";
+import Footer from "./Components/Footer";
+
+// import {BrowserRouter as Router, Route, Routes} from "react-router-dom"
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <WizNavbar />
+      <SmartItems />
+      <Technologies />
+      <Services />
+      <Gallery />
+      <ServicePackages/>
+      
+      {/* <Blogs/> */}
+      {/* <Icons/> */}
+      <LogoSlider/>
+      <Footer/>
+    </>
   );
 }
 

@@ -1,0 +1,152 @@
+ <section>
+      {data.header.map((navbar, index) => {
+        return (
+          <nav key={index} className={`navbar ${styles.navbarBg}`}>
+            <div className="container">
+              <button className={`navbar-brand ${styles.brandImage}`}>
+                {<img className={styles.image} src={`${navbar.logo}`} alt="" />}
+              </button>
+              {navbar.demo.map((item, index) => {
+                return (
+                  <div key={index} className={styles.navbarItems}>
+                    <ul className="navbar-nav navbar-nav-scroll navbar-nav-scroll ms-auto">
+                      <li className={styles.navbar_list}>
+                        <a href="/" className={styles.navbarlink}>
+                          Sample
+                        </a>
+                        <div>{item.Blog}</div>
+                      </li>
+
+                      <li className={styles.navbar_list}>
+                        <a href="/" className={styles.navbarlink}>
+                          Blogs
+                        </a>
+                        <div>{item.Business}</div>
+                      </li>
+
+                      <li className={styles.navbar_list}>
+                        <a href="/" className={styles.navbarlink}>
+                          Business
+                        </a>
+                        <div>{item.Pages}</div>
+                      </li>
+                    </ul>
+                  </div>
+                );
+              })}
+            </div>
+          </nav>
+        );
+      })}
+    </section>
+
+    Dynamic navbar
+
+    <section>
+      {data.header.map((navbar, index) => {
+        return (
+          <nav
+            className="navbar navbar-expand-lg navbar-light bg-light"
+            key={index}
+          >
+            <div className="container">
+              <button className={`navbar-brand ${styles.brandImage}`}>
+                {<img className={styles.image} src={`${navbar.logo}`} alt="" />}
+              </button>
+              {navbar.demo.map((item, index) => {
+                return (
+                  <div
+                    key={index}
+                    className="collapse navbar-collapse"
+                    id="navbarSupportedContent"
+                  >
+                    <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
+                      <li className="nav-item dropdown" data-hover="dropdown">
+                        <a
+                          className="nav-link dropdown-toggle"
+                          href="/"
+                          id="navbarDropdown"
+                          role="button"
+                          data-bs-toggle="dropdown"
+                          aria-expanded="false"
+                        >
+                          Pages
+                        </a>
+                        <ul
+                          className="dropdown-menu"
+                          aria-labelledby="navbarDropdown"
+                        >
+                          {item.Pages.map(() => {
+                            return (
+                              <li>
+                                <a className="dropdown-item" href="/">
+                                  {item.Pages ? item.Pages : null}
+                                </a>
+                              </li>
+                            );
+                          })}
+                        </ul>
+                      </li>
+
+                      <li className="nav-item dropdown">
+                        <a
+                          className="nav-link dropdown-toggle"
+                          href="/"
+                          id="navbarDropdown"
+                          role="button"
+                          data-bs-toggle="dropdown"
+                          aria-expanded="false"
+                        >
+                          Blogs
+                        </a>
+                        <ul
+                          className="dropdown-menu"
+                          aria-labelledby="navbarDropdown"
+                        >
+                          {item.Blog.map(() => {
+                            return (
+                              <li>
+                                <a className="dropdown-item" href="/">
+                                  {item.Blog}
+                                </a>
+                              </li>
+                            );
+                          })}
+                        </ul>
+                      </li>
+
+                      <li className="nav-item dropdown">
+                        <a
+                          className="nav-link dropdown-toggle"
+                          href="/"
+                          id="navbarDropdown"
+                          role="button"
+                          data-bs-toggle="dropdown"
+                          aria-expanded="false"
+                        >
+                          Business
+                        </a>
+                        <ul
+                          className="dropdown-menu"
+                          aria-labelledby="navbarDropdown"
+                        >
+                          {item.Business.map(() => {
+                            return (
+                              <li>
+                                <a className="dropdown-item" href="/">
+                                  {item.Business}
+                                </a>
+                              </li>
+                            );
+                          })}
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+                );
+              })}
+            </div>
+          </nav>
+        );
+      })}
+    </section>

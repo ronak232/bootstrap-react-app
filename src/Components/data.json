@@ -1,0 +1,233 @@
+{
+  "header": [
+    {
+      "logo": "https://wizixo.webestica.com/assets/images/logo.svg",
+      "demo": [
+        {
+          "Business": [
+            "Classic Default",
+            "Corporate Start-Up",
+            "Landing Trendy"
+          ],
+          "Blog": ["Blog Default", "Blog Grid", "Blog Minimal", "Blog Single"],
+          "Pages": ["About Classic", "About Advance", "Service", "Contact"]
+        }
+      ]
+    }
+  ],
+
+  "services": [
+    {
+      "id": "1",
+      "title": "Choose Right Tools",
+      "descriptions": "Residence certainly elsewhere something she preferred cordially law. Age his surprise formerly Mrs perceive few moderate. Of in power match on truth worse would an match learn."
+    },
+    {
+      "id": "2",
+      "title": "Customize Your wish",
+      "descriptions": "Consulted perpetual of pronounce me delivered. Too months nay end change relied who beauty wishes matter. Shew of john real park so rest we on. Ignorant occasion for thoughts"
+    },
+    {
+      "id": "3",
+      "title": "Meet your expectations",
+      "descriptions": "Why end might ask civil again spoil. Dinner she our horses depend remember at children by reserved to vicinity. Oh song well four only head busy it. In affronting delightful simplicity own."
+    }
+  ],
+
+  "gallery": [
+    {
+      "id": "1",
+      "title": "Fly in time",
+      "image": "https://wizixo.webestica.com/assets/images/portfolio/01.jpg",
+      "category": "Branding, Watch"
+    },
+    {
+      "id": "2",
+      "title": "Waiting Window",
+      "image": "https://wizixo.webestica.com/assets/images/portfolio/02.jpg",
+      "category": "Photography"
+    },
+    {
+      "id": "3",
+      "title": "Green Book",
+      "image": "https://wizixo.webestica.com/assets/images/portfolio/03.jpg",
+      "category": "Graphic"
+    },
+    {
+      "id": "4",
+      "title": "Reebok Sneakers",
+      "image": "https://wizixo.webestica.com/assets/images/portfolio/04.jpg",
+      "category": "Photography"
+    },
+    {
+      "id": "5",
+      "title": "Waiting Window",
+      "image": "https://wizixo.webestica.com/assets/images/portfolio/05.jpg",
+      "category": "Photography"
+    },
+    {
+      "id": "6",
+      "title": "Waiting Window",
+      "image": "https://wizixo.webestica.com/assets/images/portfolio/06.jpg",
+      "category": "Photography"
+    },
+    {
+      "id": "7",
+      "title": "Waiting Window",
+      "image": "https://wizixo.webestica.com/assets/images/portfolio/07.jpg",
+      "category": "Photography"
+    },
+    {
+      "id": "8",
+      "title": "Waiting Window",
+      "image": "https://wizixo.webestica.com/assets/images/portfolio/08.jpg",
+      "category": "Photography"
+    },
+    {
+      "id": "9",
+      "title": "Waiting Window",
+      "image": "https://wizixo.webestica.com/assets/images/portfolio/09.jpg",
+      "category": "Photography"
+    }
+  ],
+  "webItems": [
+    {
+      "head": "Hi there! We are creating smart websites.",
+      "descriptions": "We have built a robust team, which is capable of delivering best quality of services when it comes to website-design, Website development, mobile application, content and digital marketing",
+
+      "Images": {
+        "url1": "https://images.pexels.com/photos/54300/pexels-photo-54300.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "url2": "https://images.pexels.com/photos/1066176/pexels-photo-1066176.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "title": "Graphic Design",
+      "description": "We provide digital transformation solutions, enabling companies to make their visions reality",
+      "image": "https://cdn-icons-png.flaticon.com/512/2874/2874091.png"
+    },
+    {
+      "title": "Online Marketing",
+      "description": "Our aim to achieve the goal as we provide innovative ideas, designs and solutions to our clients",
+      "image": "https://cdn-icons-png.flaticon.com/512/791/791858.png"
+    },
+    {
+      "title": "Web Development",
+      "description": "Helping our customers better manage their web presence in order to achieve greater success online.",
+      "image": "https://cdn-icons-png.flaticon.com/512/2902/2902298.png"
+    },
+    {
+      "title": "Management",
+      "description": "Increasing impression interested expression he my at respect invited greater request charmed warrant",
+      "image": "https://cdn-icons-png.flaticon.com/512/3524/3524636.png"
+    },
+    {
+      "title": "Photography",
+      "description": "Placing assured be if removed it besides on far shed each high invited read are men over day family",
+      "image": "https://cdn-icons-png.flaticon.com/512/833/833453.png"
+    },
+    {
+      "title": "Mobile Solutions",
+      "description": "Call in so want pure rank am dear were Marianne remarkably to continuing in surrounded diminution",
+      "image": "https://cdn-icons-png.flaticon.com/512/5010/5010986.png"
+    }
+  ],
+  "Blogs": [
+    {
+      "id": "1",
+      "title": "The Stories Behind those Iconic Blogs",
+      "image": "https://wizixo.webestica.com/assets/images/blog/grid/01.jpg",
+      "description": "Six started far placing saw respect females old. Civilly why how end viewing attempt related enquire visitor. Man particular insensible celebrated conviction stimulated principles day."
+    },
+    {
+      "id": "2",
+      "title": "Right my front it wound cause fully am sorry if",
+      "image": "https://youtu.be/9No-FiEInLA",
+      "description": "Sure fail or in said west. Right my front it wound cause fully am sorry if. She jointure goodness interest debating did outweigh. Is time from them full my gone in went.Sure fail or in said west."
+    },
+    {
+      "id": "3",
+      "title": "50 Most Wanted WordPress Tips, Tricks, and Hacks!",
+      "image": "https://wizixo.webestica.com/assets/images/blog/grid/03.jpg",
+      "description": "Man particular insensible celebrated conviction stimulated principles day. Six started far placing saw respect females old. Civilly why how end viewing attempt related enquire visitor."
+    },
+    {
+      "id": "4",
+      "title": "TMonths had too ham cousin remove far spirit",
+      "image": "blob:https://player.vimeo.com/f9636306-c383-4d4f-a89c-7a83aa8a6a15",
+      "description": "Of resolve to gravity thought my prepare chamber so. Unsatiable entreaties collecting may sympathize nay interested instrument. If continue building numerous of at relation in margaret."
+    },
+    {
+      "id": "5",
+      "title": "7 Great Lessons You Can Learn From Business",
+      "image": "https://wizixo.webestica.com/assets/images/blog/big/01.jpg",
+      "description": "Still court no small think death so an wrote. Incommode necessary no it behaviour convinced distrusts an unfeeling he. Could death since do we hoped is in. Exquisite no my attention extensive."
+    },
+    {
+      "id": "6",
+      "title": "The Worst Advices We've Heard For Business",
+      "image": "https://wizixo.webestica.com/assets/images/blog/grid/04.jpg",
+      "description": "Civilly why how end viewing attempt related enquire visitor. Man particular insensible celebrated conviction stimulated principles day. Six started far placing saw respect females old."
+    }
+  ],
+
+  "slider": [
+    {
+      "id": "1",
+      "image": "https://wizixo.webestica.com/assets/images/clients/01.png"
+    },
+    {
+      "id": "2",
+      "image": "https://wizixo.webestica.com/assets/images/clients/02.png"
+    },
+    {
+      "id": "3",
+      "image": "https://wizixo.webestica.com/assets/images/clients/03.png"
+    },
+    {
+      "id": "4",
+      "image": "https://wizixo.webestica.com/assets/images/clients/04.png"
+    },
+    {
+      "id": "5",
+      "image": "https://wizixo.webestica.com/assets/images/clients/05.png"
+    },
+    {
+      "id": "6",
+      "image": "https://wizixo.webestica.com/assets/images/clients/06.png"
+    },
+    {
+      "id": "7",
+      "image": "https://wizixo.webestica.com/assets/images/clients/07.png"
+    },
+    {
+      "id": "8",
+      "image": "https://wizixo.webestica.com/assets/images/clients/08.png"
+    },
+    {
+      "id": "9",
+      "image": "https://wizixo.webestica.com/assets/images/clients/09.png"
+    }
+  ],
+  "carosuelSlider": [
+    {
+      "id": "1",
+      "image": "https://images.pexels.com/photos/3184160/pexels-photo-3184160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "text": "Build a very unique and professional website",
+      "text2": "Crafting visually stunning memorable experiences for the web"
+    },
+    {
+      "id": "2",
+      "image": "https://images.pexels.com/photos/374016/pexels-photo-374016.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "text": "We’re good. Just ask our moms.",
+      "text2": "Crafting visually stunning memorable experiences for the web"
+    },
+    {
+      "id": "3",
+      "image": "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "text": "Build a very unique and professional website",
+      "text2": "Crafting visually stunning memorable experiences for the web"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.navbar-content {
+  background-color: #f3f6f954;
+  box-shadow: 1px 5px 15px rgba(145, 129, 129, 0.189);
+  /* margin-bottom: 35px; */
+}
+
+.logoimage {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .logoimage {
+    width: 50%;
+  } 
+}
